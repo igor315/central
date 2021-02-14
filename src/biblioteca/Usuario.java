@@ -12,8 +12,4 @@ public class Usuario {
 	public void excluir() {
 		
 	}
-	
-	public void listarUsuariosCadastrados() {
-		
-	}
 }
